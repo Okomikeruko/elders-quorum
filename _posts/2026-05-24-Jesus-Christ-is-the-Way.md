@@ -26,7 +26,8 @@ speaker: "Elder Brian J. Holmes"
 
 ---
 
-## 1. Walking With Christ{:.section-heading}
+## 1. Walking With Christ
+{:.section-heading}
 
 ### Scriptures
 - [John 14:6](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p6#p6)
