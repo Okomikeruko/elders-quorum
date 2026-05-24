@@ -14,13 +14,6 @@ source_url: "https://www.churchofjesuschrist.org/study/general-conference/2026/0
 speaker: "Elder Brian J. Holmes"
 ---
 
-<blockquote>
-  <p><strong>Jesus Is the Way</strong></p>
-  <a href="https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p6#p6" target="_blank">"I am the way." - John 14:6</a>
-</blockquote>
-
-<hr>
-
 <h2 class="section-headin">Opening Discussion</h2>
 
 ### Scriptures
@@ -33,13 +26,13 @@ speaker: "Elder Brian J. Holmes"
 
 ---
 
-# 1. Walking With Christ
+## 1. Walking With Christ {.section-heading}
 
-## Scriptures
+### Scriptures
 - [John 14:6](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p6#p6)
 - [2 Nephi 31:19–21](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng&id=p19-p21#p19)
 
-## Discussion Questions
+### Discussion Questions
 - What is the difference between believing in Christ and actually following Him?
 - What does daily discipleship look like in ordinary life?
 - What kinds of distractions gradually pull people off the path?
@@ -52,49 +45,49 @@ speaker: "Elder Brian J. Holmes"
 
 ---
 
-# 2. Covenants and Strength
+## 2. Covenants and Strength {.section-heading}
 
-## Scriptures
+### Scriptures
 - [Mosiah 5:5–7](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=eng&id=p5-p7#p5)
 - [Doctrine and Covenants 84:20–21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p20-p21#p20)
 
-## Discussion Questions
+### Discussion Questions
 - Why do covenants create spiritual strength?
 - How are covenants different from merely making good intentions?
 - Why do difficult experiences often deepen covenant commitment?
 - How does remembering covenants change the way we face trials?
 
-## Experience-Oriented Questions
+### Experience-Oriented Questions
 - When have you felt sustained by the Lord during something difficult?
 - Have there been moments when your testimony became more real through hardship?
 - What practices help you remain spiritually connected when motivation is low?
 
-## Reflective Question
+### Reflective Question
 - Why do you think God works through covenant relationships instead of simply removing every trial?
 
 ---
 
-# 3. Following Prophets
+## 3. Following Prophets {.section-heading}
 
-## Scriptures
+### Scriptures
 - [Amos 3:7](https://www.churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=eng&id=p7#p7)
 - [Doctrine and Covenants 1:38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38)
 
-## Discussion Questions
+### Discussion Questions
 - Why has the Lord consistently led His people through prophets?
 - Why can prophetic counsel sometimes feel difficult or uncomfortable?
 - What is the difference between trusting a prophet and merely agreeing with a prophet?
 - How can disciples develop spiritual confidence before faith is tested?
 
-## Discussion Expansion
+### Discussion Expansion
 - What role does humility play in receiving revelation?
 - How do we remain charitable and faithful when we do not fully understand something immediately?
 
 ---
 
-# Closing Reflection
+## Closing Reflection {.section-heading}
 
-## Questions
+### Questions
 - What part of Elder Holmes’s message felt most personally relevant to you?
 - What does it mean to you personally that Christ is “the way”?
 - Where do you most need the Savior’s help right now?
@@ -102,7 +95,7 @@ speaker: "Elder Brian J. Holmes"
 
 ---
 
-# Final Invitation
+## Final Invitation {.section-heading}
 
 > “Come, follow me.”
 
