@@ -14,7 +14,7 @@ source_url: "https://www.churchofjesuschrist.org/study/general-conference/2026/0
 speaker: "Elder Brian J. Holmes"
 ---
 
-<h2 class="section-headin">Opening Discussion</h2>
+<h2 class="section-heading">Opening Discussion</h2>
 
 ### Scriptures
 - [John 14:6](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p6#p6)
@@ -26,7 +26,7 @@ speaker: "Elder Brian J. Holmes"
 
 ---
 
-## 1. Walking With Christ {.section-heading}
+## 1. Walking With Christ {:.section-heading}
 
 ### Scriptures
 - [John 14:6](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p6#p6)
@@ -45,7 +45,7 @@ speaker: "Elder Brian J. Holmes"
 
 ---
 
-## 2. Covenants and Strength {.section-heading}
+## 2. Covenants and Strength {:.section-heading}
 
 ### Scriptures
 - [Mosiah 5:5–7](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=eng&id=p5-p7#p5)
@@ -67,7 +67,7 @@ speaker: "Elder Brian J. Holmes"
 
 ---
 
-## 3. Following Prophets {.section-heading}
+## 3. Following Prophets {:.section-heading}
 
 ### Scriptures
 - [Amos 3:7](https://www.churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=eng&id=p7#p7)
