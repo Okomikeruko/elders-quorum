@@ -2,7 +2,7 @@
 layout: post
 title: "Jesus Christ Is the Way"
 subtitle: "By Elder Brian J. Holmes, April 2026 General Conference."
-date: 2026-05-22 00:00:00 -0600
+date: 2026-05-24 00:00:00 -0600
 background: '/img/posts/an_invitation_by_stacy_minch.webp'
 tags:
   - Jesus Christ
