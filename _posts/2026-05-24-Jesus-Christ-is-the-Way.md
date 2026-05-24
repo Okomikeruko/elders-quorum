@@ -106,3 +106,7 @@ speaker: "Elder Brian J. Holmes"
 
 Take a moment to consider:
 - What is the Savior inviting you to do next?
+
+---
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRGg29jmb0DlniOjYo8IiA52tWWNeYDDSXi9nkT8bXDOYL7SW_MkPH1b5v59q-fThkxeQSPjuwGWLD6/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
