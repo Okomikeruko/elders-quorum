@@ -13,11 +13,11 @@ tags:
 source_url: "https://www.churchofjesuschrist.org/study/general-conference/2026/04/28holmes?lang=eng"
 speaker: "Elder Brian J. Holmes"
 ---
-
-<h2 class="section-heading">Opening Discussion</h2>
+## Opening Discussion
+{:.section-heading}
 
 ### Scriptures
-- [John 14:6](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p6#p6)
+- [John 14:6](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p6#p6){:target="_blank"}
 
 ### Questions
 - Why do you think Christ described Himself as *the way* instead of merely *a teacher* or *an example*?
@@ -30,8 +30,8 @@ speaker: "Elder Brian J. Holmes"
 {:.section-heading}
 
 ### Scriptures
-- [John 14:6](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p6#p6)
-- [2 Nephi 31:19–21](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng&id=p19-p21#p19)
+- [John 14:6](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p6#p6){:target="_blank"}
+- [2 Nephi 31:17–21](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng&id=p17-p21#p17){:target="_blank"}
 
 ### Discussion Questions
 - What is the difference between believing in Christ and actually following Him?
@@ -46,7 +46,8 @@ speaker: "Elder Brian J. Holmes"
 
 ---
 
-## 2. Covenants and Strength {:.section-heading}
+## 2. Covenants and Strength
+{:.section-heading}
 
 ### Scriptures
 - [Mosiah 5:5–7](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=eng&id=p5-p7#p5)
@@ -68,7 +69,8 @@ speaker: "Elder Brian J. Holmes"
 
 ---
 
-## 3. Following Prophets {:.section-heading}
+## 3. Following Prophets
+{:.section-heading}
 
 ### Scriptures
 - [Amos 3:7](https://www.churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=eng&id=p7#p7)
@@ -86,7 +88,8 @@ speaker: "Elder Brian J. Holmes"
 
 ---
 
-## Closing Reflection {.section-heading}
+## Closing Reflection
+{:.section-heading}
 
 ### Questions
 - What part of Elder Holmes’s message felt most personally relevant to you?
@@ -96,7 +99,8 @@ speaker: "Elder Brian J. Holmes"
 
 ---
 
-## Final Invitation {.section-heading}
+## Final Invitation
+{:.section-heading}
 
 > “Come, follow me.”
 
