@@ -40,7 +40,7 @@ speaker: "Elder Brian J. Holmes"
 - Why does spiritual drift usually happen slowly instead of suddenly?
 - How have you seen small consistent choices strengthen faith over time?
 
-## Deeper Reflection
+### Deeper Reflection
 - Why do you think the Savior describes the way as “narrow”?
 - What helps disciples stay spiritually grounded during busy seasons of life?
 
@@ -50,8 +50,8 @@ speaker: "Elder Brian J. Holmes"
 {:.section-heading}
 
 ### Scriptures
-- [Mosiah 5:5–7](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=eng&id=p5-p7#p5)
-- [Doctrine and Covenants 84:20–21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p20-p21#p20)
+- [Mosiah 5:5–7](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=eng&id=p5-p7#p5){:target="_blank"}
+- [Doctrine and Covenants 84:20–21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p20-p21#p20){:target="_blank"}
 
 ### Discussion Questions
 - Why do covenants create spiritual strength?
@@ -73,8 +73,8 @@ speaker: "Elder Brian J. Holmes"
 {:.section-heading}
 
 ### Scriptures
-- [Amos 3:7](https://www.churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=eng&id=p7#p7)
-- [Doctrine and Covenants 1:38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38)
+- [Amos 3:7](https://www.churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=eng&id=p7#p7){:target="_blank"}
+- [Doctrine and Covenants 1:38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38){:target="_blank"}
 
 ### Discussion Questions
 - Why has the Lord consistently led His people through prophets?
@@ -106,7 +106,3 @@ speaker: "Elder Brian J. Holmes"
 
 Take a moment to consider:
 - What is the Savior inviting you to do next?
-
-<h2 class="section-heading">Slide Show</h2>
-
-<p>Insert the slide show here</p>
