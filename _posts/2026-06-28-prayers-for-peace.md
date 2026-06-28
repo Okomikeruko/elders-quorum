@@ -3,7 +3,7 @@ layout: post
 title: "Prayers for Peace"
 subtitle: "By President Henry B. Eyring, April 2026 General Conference."
 date: 2026-06-28 00:00:00 -0600
-background: '/img/posts/an_invitation_by_stacy_minch.webp'
+background: '/img/posts/jesus_praying_in_gethsemane.webp'
 tags:
   - prayer
   - peace
@@ -132,4 +132,4 @@ Take a moment to consider:
 
 ---
 
-<iframe src="GOOGLE_SLIDES_EMBED_URL_HERE" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROG__J4j5QxasXyw55yhJ83oMkuGMNvdy27uVBBlwe8zMpSMHoxKznI5q2y1yH-_9esf89lT0iJUHH/pub?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
