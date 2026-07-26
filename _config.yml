@@ -16,7 +16,8 @@ linkedin_username:
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # URLs that should NOT open in a new tab (exemptions from target="_blank")
-external_link_exemptions: []
+external_link_exemptions:
+  - "https://www.churchofjesuschrist.org/study/"
 
 # Build settings
 markdown:           kramdown
