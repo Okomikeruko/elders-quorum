@@ -145,7 +145,7 @@ Set a goal on the Gospel Living app
 
 ---
 
-<iframe src="https://docs.google.com/presentation/d/1aRUc6IWDeXPxsyFSBZ3dhPGlpnVQcxv-_6kc5YnHbD8/edit?usp=sharing"
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWKLR4e_WPNuahtMOHGnEvOaUoDZ5byTdq-nTnt8HB0pGjfsaJFd5UqvtEMPGpJGQxbSXj8t1PmVae/pub?start=false&loop=false&delayms=3000"
         frameborder="0"
         width="960"
         height="569"
