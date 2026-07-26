@@ -1,54 +1,40 @@
 ---
 layout: post
-title: "Jesus Christ Is Not Our Burden; He Is Our Relief"
-subtitle: "By Brother David J. Wunderli, April 2026 General Conference."
-date: 2026-07-26 00:00:00 -0600
-background: '/img/posts/come_unto_me.webp'
-tags:
-  - Jesus Christ
-  - discipleship
-  - burdens
-  - grace
-  - consecration
-source_url: "https://www.churchofjesuschrist.org/study/general-conference/2026/04/10wunderli?lang=eng"
-speaker: "Brother David J. Wunderli"
+title: Jesus Christ Is Not Our Burden; He Is Our Relief
+subtitle: Elders Quorum Discussion Guide
+date: 2026-07-26
+background: '/img/bg-about.jpg'
+tags: [General Conference, Jesus Christ, Discipleship, Relief]
+speaker: Brother David J. Wunderli
+source_url: https://www.churchofjesuschrist.org/study/general-conference
 ---
 
 ## Opening Discussion
-{:.section-heading}
 
-Brother Wunderli reminds us that **Jesus Christ is not another burden we carry—He is the One who carries us.**
+Jesus Christ invites:
 
-Doctrine and Covenants 4:2 teaches that discipleship involves our whole soul:
+> "Come unto me, all ye that labour and are heavy laden, and I will give you rest."
 
-| | |
-|---|---|
-| **Heart** | My will belongs to God. |
-| **Mind** | I seek truth and understanding. |
-| **Strength** | I consecrate my labor and abilities. |
-| **Might** | I use my influence to bless others. |
-
-Today, let's consider how Christ becomes our relief in each of these areas.
+At first glance, discipleship can seem like another weight to carry. Brother Wunderli teaches that the opposite is true. Jesus Christ is not our burden; He is our relief.
 
 ### Scriptures
 
 - [Matthew 11:28–30](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/11?lang=eng&id=p28-p30#p28)
-- [Doctrine and Covenants 4:2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/4?lang=eng&id=p2#p2)
+- [John 16:33](https://www.churchofjesuschrist.org/study/scriptures/nt/john/16?lang=eng&id=p33#p33)
 
-### Questions
+### Discussion Questions
 
-- Why do people sometimes feel that following Christ adds another burden?
-- What does the Savior actually promise in Matthew 11?
-- What does it mean to serve God with our whole heart, might, mind, and strength?
+- Why do people sometimes think following Christ adds to life's burdens?
+- What does the Savior actually promise?
+- How has your understanding of discipleship changed over time?
 
 ---
 
-## Heart — Consecrate My Will
-{:.section-heading}
+# Heart - Spiritual
 
-> "Not my will, but thine, be done."
+**How does Christ invite us to align our will with His?**
 
-A broken heart is not merely a sad heart—it is a yielded heart. We willingly align our desires with God's will until serving Him becomes our deepest desire.
+Brother Wunderli reminds us that relief comes as we come to Christ. His invitation is not merely to believe in Him, but to trust Him enough to surrender our own way for His.
 
 ### Scriptures
 
@@ -58,16 +44,38 @@ A broken heart is not merely a sad heart—it is a yielded heart. We willingly a
 
 ### Discussion Questions
 
-- What does a "broken heart" mean to you?
-- How did the Savior demonstrate a perfectly consecrated heart in Gethsemane?
-- What desires become lighter when we align our will with God's?
+- What does Christ ask us to bring to Him?
+- How is a "broken heart" different from simply feeling discouraged?
+- What burdens become lighter as our will becomes more aligned with His?
+- What desire or concern is hardest for me to place in the Savior's hands?
 
 ---
 
-## Mind — Consecrate My Understanding
-{:.section-heading}
+# Might - Social
 
-Christ relieves burdens by replacing fear and deception with truth.
+**How can Christ bless others through us?**
+
+Christ often answers prayers through His disciples. As we minister, encourage, and serve, we become part of the relief He offers to others.
+
+### Scriptures
+
+- [Mosiah 18:8–10](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=eng&id=p8-p10#p8)
+- [Galatians 6:2](https://www.churchofjesuschrist.org/study/scriptures/nt/gal/6?lang=eng&id=p2#p2)
+
+### Discussion Questions
+
+- Who has helped carry your burdens through Christlike service?
+- How can we become instruments of the Savior's relief?
+- What opportunities to strengthen others are already around us?
+- Whose burden could I help lighten this week?
+
+---
+
+# Mind - Intellectual
+
+**What truths from this message change how we think?**
+
+One of Brother Wunderli's central themes is that Satan wants us to believe following Christ is another burden to bear. The Savior teaches exactly the opposite.
 
 ### Scriptures
 
@@ -76,83 +84,72 @@ Christ relieves burdens by replacing fear and deception with truth.
 
 ### Discussion Questions
 
-- Brother Wunderli teaches that Satan is a liar. What lies make discipleship feel heavy?
-- How has learning truth changed the way you see a difficult situation?
-- What truth about Jesus Christ gives you the greatest hope?
+- What misconceptions make discipleship seem heavy?
+- What truths from the Savior replace those misconceptions?
+- How does knowing Christ more fully change the way we experience trials?
+- What truth from this message do I most need to remember?
 
 ---
 
-## Strength — Consecrate My Labor
-{:.section-heading}
+# Strength - Physical
 
-The Savior often strengthens us before He removes the burden.
+**How does Christ strengthen us for the work before us?**
+
+Sometimes the Savior removes burdens. Often He strengthens us to carry them. His grace enables us to do what we could never do alone.
 
 ### Scriptures
 
 - [Mosiah 24:13–15](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/24?lang=eng&id=p13-p15#p13)
-- [Alma 7:11–13](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=eng&id=p11-p13#p11)
+- [Alma 7:11–12](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=eng&id=p11-p12#p11)
 
 ### Discussion Questions
 
-- Why doesn't the Lord always remove our burdens immediately?
-- When have you felt strengthened before your circumstances changed?
-- How does Christ's Atonement help us continue moving forward?
+- Why doesn't God always remove our burdens immediately?
+- When have you felt strengthened rather than rescued?
+- How has Christ's enabling power changed what you were able to do?
+- Where do I need the Savior's strength today?
 
 ---
 
-## Might — Consecrate My Influence
-{:.section-heading}
+# Closing Reflection
 
-Our might is more than physical ability—it is our capacity to bless, lead, encourage, and strengthen others in Christ.
+Brother Wunderli teaches that Jesus Christ is not another burden placed upon us. He is our source of relief, peace, strength, and hope.
 
-### Scriptures
+Looking through these four lenses can help us return to the Savior's invitation:
 
-- [Mosiah 18:8–10](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=eng&id=p8-p10#p8)
-- [Doctrine and Covenants 82:19](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=eng&id=p19#p19)
+> "Come unto me."
 
-### Discussion Questions
+### Final Discussion
 
-- Who has been Christ's relief in your life?
-- How can our influence help lighten another person's burden?
-- What opportunities has the Lord given you to strengthen someone this week?
+- Which lens helped you see the Savior's invitation in a new way?
+- What impressed you most from Brother Wunderli's message?
+- What will you do differently because of today's discussion?
 
 ---
 
-## Closing Reflection
-{:.section-heading}
+# Final Invitation
 
-| Aspect | Reflection |
-|---|---|
-| **Heart** | Is my will becoming God's will? |
-| **Mind** | What truth about Christ changes how I view my burdens? |
-| **Strength** | What burden can I bring to Christ instead of carrying alone? |
-| **Might** | How can my influence help someone else come unto Christ? |
+Prayerfully choose **one action** this week.
 
-### Questions
+| Lens | Invitation |
+|------|------------|
+| Heart | Entrust one burden to the Savior. |
+| Mind | Replace one discouraging thought with a gospel truth. |
+| Might | Lift someone else's burden through service. |
+| Strength | Rely on Christ's strength in one difficult situation. |
 
-- Which of these four areas spoke to you today?
-- How does Brother Wunderli's message change the way you think about discipleship?
-- Where do you most need the Savior's relief right now?
+Set a goal on the Gospel Living app
+
+| | |
+|--|--|
+| [![Download on iOS](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](https://apps.apple.com/us/app/gospel-living/id1245330433){: height="40" } | [![Download on Android](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=org.lds.liv&hl=en_US){: height="40" } |   
 
 ---
 
-## Final Invitation
-{:.section-heading}
-
-This week, open the **Gospel Living** app and prayerfully choose **one goal**.
-
-Not because Christ is asking you to carry more—
-
-but because He invites you to consecrate one more part of your life to Him.
-
-As you do, consider which area of discipleship He is inviting you to strengthen:
-
-| Aspect | Goal |
-|---|---|
-| **Heart** | Consecrate my will. |
-| **Mind** | Seek greater truth. |
-| **Strength** | Consecrate my labor. |
-| **Might** | Use my influence to bless others. |
-
-> "Come unto me, all ye that labour and are heavy laden, and I will give you rest."
-> — Matthew 11:28
+<iframe src="GOOGLE_SLIDES_EMBED_URL"
+        frameborder="0"
+        width="960"
+        height="569"
+        allowfullscreen="true"
+        mozallowfullscreen="true"
+        webkitallowfullscreen="true"></iframe>
