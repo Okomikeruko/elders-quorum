@@ -30,7 +30,7 @@ At first glance, discipleship can seem like another weight to carry. Brother Wun
 
 ---
 
-# Heart - Spiritual
+## Heart - Spiritual
 
 **How does Christ invite us to align our will with His?**
 
@@ -51,7 +51,7 @@ Brother Wunderli reminds us that relief comes as we come to Christ. His invitati
 
 ---
 
-# Might - Social
+## Might - Social
 
 **How can Christ bless others through us?**
 
@@ -71,7 +71,7 @@ Christ often answers prayers through His disciples. As we minister, encourage, a
 
 ---
 
-# Mind - Intellectual
+## Mind - Intellectual
 
 **What truths from this message change how we think?**
 
@@ -91,7 +91,7 @@ One of Brother Wunderli's central themes is that Satan wants us to believe follo
 
 ---
 
-# Strength - Physical
+## Strength - Physical
 
 **How does Christ strengthen us for the work before us?**
 
@@ -111,7 +111,7 @@ Sometimes the Savior removes burdens. Often He strengthens us to carry them. His
 
 ---
 
-# Closing Reflection
+## Closing Reflection
 
 Brother Wunderli teaches that Jesus Christ is not another burden placed upon us. He is our source of relief, peace, strength, and hope.
 
@@ -121,13 +121,12 @@ Looking through these four lenses can help us return to the Savior's invitation:
 
 ### Final Discussion
 
-- Which lens helped you see the Savior's invitation in a new way?
 - What impressed you most from Brother Wunderli's message?
 - What will you do differently because of today's discussion?
 
 ---
 
-# Final Invitation
+## Final Invitation
 
 Prayerfully choose **one action** this week.
 
@@ -146,7 +145,7 @@ Set a goal on the Gospel Living app
 
 ---
 
-<iframe src="GOOGLE_SLIDES_EMBED_URL"
+<iframe src="https://docs.google.com/presentation/d/1aRUc6IWDeXPxsyFSBZ3dhPGlpnVQcxv-_6kc5YnHbD8/edit?usp=sharing"
         frameborder="0"
         width="960"
         height="569"
