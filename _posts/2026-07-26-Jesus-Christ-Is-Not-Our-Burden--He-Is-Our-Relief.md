@@ -33,7 +33,7 @@ Today, let's consider how Christ becomes our relief in each of these areas.
 ### Scriptures
 
 - [Matthew 11:28–30](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/11?lang=eng&id=p28-p30#p28)
-- [Doctrine and Covenants 4:2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/4?lang=eng&id=p2#p2){:target="_blank"}
+- [Doctrine and Covenants 4:2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/4?lang=eng&id=p2#p2)
 
 ### Questions
 
@@ -52,9 +52,9 @@ A broken heart is not merely a sad heart—it is a yielded heart. We willingly a
 
 ### Scriptures
 
-- [Luke 22:42](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/22?lang=eng&id=p42#p42){:target="_blank"}
-- [3 Nephi 9:20](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p20#p20){:target="_blank"}
-- [Matthew 11:28–30](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/11?lang=eng&id=p28-p30#p28){:target="_blank"}
+- [Luke 22:42](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/22?lang=eng&id=p42#p42)
+- [3 Nephi 9:20](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p20#p20)
+- [Matthew 11:28–30](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/11?lang=eng&id=p28-p30#p28)
 
 ### Discussion Questions
 
@@ -71,8 +71,8 @@ Christ relieves burdens by replacing fear and deception with truth.
 
 ### Scriptures
 
-- [John 8:31–32](https://www.churchofjesuschrist.org/study/scriptures/nt/john/8?lang=eng&id=p31-p32#p31){:target="_blank"}
-- [Romans 12:2](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/12?lang=eng&id=p2#p2){:target="_blank"}
+- [John 8:31–32](https://www.churchofjesuschrist.org/study/scriptures/nt/john/8?lang=eng&id=p31-p32#p31)
+- [Romans 12:2](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/12?lang=eng&id=p2#p2)
 
 ### Discussion Questions
 
@@ -89,8 +89,8 @@ The Savior often strengthens us before He removes the burden.
 
 ### Scriptures
 
-- [Mosiah 24:13–15](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/24?lang=eng&id=p13-p15#p13){:target="_blank"}
-- [Alma 7:11–13](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=eng&id=p11-p13#p11){:target="_blank"}
+- [Mosiah 24:13–15](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/24?lang=eng&id=p13-p15#p13)
+- [Alma 7:11–13](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=eng&id=p11-p13#p11)
 
 ### Discussion Questions
 
@@ -107,8 +107,8 @@ Our might is more than physical ability—it is our capacity to bless, lead, enc
 
 ### Scriptures
 
-- [Mosiah 18:8–10](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=eng&id=p8-p10#p8){:target="_blank"}
-- [Doctrine and Covenants 82:19](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=eng&id=p19#p19){:target="_blank"}
+- [Mosiah 18:8–10](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=eng&id=p8-p10#p8)
+- [Doctrine and Covenants 82:19](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/82?lang=eng&id=p19#p19)
 
 ### Discussion Questions
 

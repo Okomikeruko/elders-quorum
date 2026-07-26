@@ -17,8 +17,8 @@ speaker: "President Henry B. Eyring"
 {:.section-heading}
 
 ### Scriptures
-- [Alma 17:3](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/17?lang=eng&id=p3#p3){:target="_blank"}
-- [2 Nephi 32:8–9](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=eng&id=p8-p9#p8){:target="_blank"}
+- [Alma 17:3](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/17?lang=eng&id=p3#p3)
+- [2 Nephi 32:8–9](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=eng&id=p8-p9#p8)
 
 ### Questions
 - What does it mean to have “a continual prayer” in our hearts?
@@ -31,8 +31,8 @@ speaker: "President Henry B. Eyring"
 {:.section-heading}
 
 ### Scriptures
-- [2 Nephi 32:8–9](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=eng&id=p8-p9#p8){:target="_blank"}
-- [Doctrine and Covenants 10:5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/10?lang=eng&id=p5#p5){:target="_blank"}
+- [2 Nephi 32:8–9](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=eng&id=p8-p9#p8)
+- [Doctrine and Covenants 10:5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/10?lang=eng&id=p5#p5)
 
 ### Discussion Questions
 - What is the difference between saying prayers and living with prayer in our hearts?
@@ -51,8 +51,8 @@ speaker: "President Henry B. Eyring"
 {:.section-heading}
 
 ### Scriptures
-- [Alma 17:2–3](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/17?lang=eng&id=p2-p3#p2){:target="_blank"}
-- [Mosiah 27:35–37](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=eng&id=p35-p37#p35){:target="_blank"}
+- [Alma 17:2–3](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/17?lang=eng&id=p2-p3#p2)
+- [Mosiah 27:35–37](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=eng&id=p35-p37#p35)
 
 ### Discussion Questions
 - The sons of Mosiah “had given themselves to much prayer.” What does that phrase suggest to you?
@@ -74,8 +74,8 @@ speaker: "President Henry B. Eyring"
 {:.section-heading}
 
 ### Scriptures
-- [Ether 12:27](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=eng&id=p27#p27){:target="_blank"}
-- [Mosiah 24:14–15](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/24?lang=eng&id=p14-p15#p14){:target="_blank"}
+- [Ether 12:27](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=eng&id=p27#p27)
+- [Mosiah 24:14–15](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/24?lang=eng&id=p14-p15#p14)
 
 ### Discussion Questions
 - Why do we sometimes avoid facing things that feel stressful, discouraging, or out of our control?
@@ -95,9 +95,9 @@ speaker: "President Henry B. Eyring"
 {:.section-heading}
 
 ### Scriptures
-- [John 14:27](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p27#p27){:target="_blank"}
-- [Doctrine and Covenants 6:36](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/6?lang=eng&id=p36#p36){:target="_blank"}
-- [Philippians 4:6–7](https://www.churchofjesuschrist.org/study/scriptures/nt/philip/4?lang=eng&id=p6-p7#p6){:target="_blank"}
+- [John 14:27](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p27#p27)
+- [Doctrine and Covenants 6:36](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/6?lang=eng&id=p36#p36)
+- [Philippians 4:6–7](https://www.churchofjesuschrist.org/study/scriptures/nt/philip/4?lang=eng&id=p6-p7#p6)
 
 ### Discussion Questions
 - How is the Savior’s peace different from the world’s peace?
