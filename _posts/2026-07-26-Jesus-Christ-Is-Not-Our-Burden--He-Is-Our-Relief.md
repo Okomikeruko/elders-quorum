@@ -142,7 +142,7 @@ Set a goal on the Gospel Living app
 
 | | |
 |--|--|
-| [![Download on iOS](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83){:height="40}](https://apps.apple.com/us/app/gospel-living/id1245330433) | [![Download on Android](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png){:height="60"}](https://play.google.com/store/apps/details?id=org.lds.liv&hl=en_US) |   
+| [![Download on iOS](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83){:height="40"}](https://apps.apple.com/us/app/gospel-living/id1245330433) | [![Download on Android](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png){:height="60"}](https://play.google.com/store/apps/details?id=org.lds.liv&hl=en_US) |   
 
 ---
 
