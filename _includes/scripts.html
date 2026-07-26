@@ -2,6 +2,10 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
 <script src="{{"/assets/vendor/startbootstrap-clean-blog/js/scripts.js" | relative_url }}"></script>
 
+<script>
+  window.externalLinkExemptions = {% if site.external_link_exemptions %}{{ site.external_link_exemptions | jsonify }}{% else %}[]{% endif %};
+</script>
+
 <script src="{{"/assets/scripts.js" | relative_url }}"></script>
 
 {% if page.url contains 'contact' %}

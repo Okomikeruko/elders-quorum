@@ -17,7 +17,7 @@ speaker: "Elder Brian J. Holmes"
 {:.section-heading}
 
 ### Scriptures
-- [John 14:6](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p6#p6){:target="_blank"}
+- [John 14:6](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p6#p6)
 
 ### Questions
 - Why do you think Christ described Himself as *the way* instead of merely *a teacher* or *an example*?
@@ -30,8 +30,8 @@ speaker: "Elder Brian J. Holmes"
 {:.section-heading}
 
 ### Scriptures
-- [John 14:6](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p6#p6){:target="_blank"}
-- [2 Nephi 31:17–21](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng&id=p17-p21#p17){:target="_blank"}
+- [John 14:6](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p6#p6)
+- [2 Nephi 31:17–21](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng&id=p17-p21#p17)
 
 ### Discussion Questions
 - What is the difference between believing in Christ and actually following Him?
@@ -50,8 +50,8 @@ speaker: "Elder Brian J. Holmes"
 {:.section-heading}
 
 ### Scriptures
-- [Mosiah 5:5–7](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=eng&id=p5-p7#p5){:target="_blank"}
-- [Doctrine and Covenants 84:20–21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p20-p21#p20){:target="_blank"}
+- [Mosiah 5:5–7](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=eng&id=p5-p7#p5)
+- [Doctrine and Covenants 84:20–21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=p20-p21#p20)
 
 ### Discussion Questions
 - Why do covenants create spiritual strength?
@@ -73,8 +73,8 @@ speaker: "Elder Brian J. Holmes"
 {:.section-heading}
 
 ### Scriptures
-- [Amos 3:7](https://www.churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=eng&id=p7#p7){:target="_blank"}
-- [Doctrine and Covenants 1:38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38){:target="_blank"}
+- [Amos 3:7](https://www.churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=eng&id=p7#p7)
+- [Doctrine and Covenants 1:38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38)
 
 ### Discussion Questions
 - Why has the Lord consistently led His people through prophets?
