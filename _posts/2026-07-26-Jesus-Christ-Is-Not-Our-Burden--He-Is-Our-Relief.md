@@ -32,7 +32,7 @@ Today, let's consider how Christ becomes our relief in each of these areas.
 
 ### Scriptures
 
-- [Matthew 11:28–30](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/11?lang=eng&id=p28-p30#p28){:target="_blank"}
+- [Matthew 11:28–30](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/11?lang=eng&id=p28-p30#p28)
 - [Doctrine and Covenants 4:2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/4?lang=eng&id=p2#p2){:target="_blank"}
 
 ### Questions
