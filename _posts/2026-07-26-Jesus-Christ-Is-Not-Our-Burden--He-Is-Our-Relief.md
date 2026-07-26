@@ -3,7 +3,7 @@ layout: post
 title: Jesus Christ Is Not Our Burden; He Is Our Relief
 subtitle: Elders Quorum Discussion Guide
 date: 2026-07-26
-background: '/img/bg-about.jpg'
+background: '/img/posts/backpacking-narrow-trail.jpg'
 tags: [General Conference, Jesus Christ, Discipleship, Relief]
 speaker: Brother David J. Wunderli
 source_url: https://www.churchofjesuschrist.org/study/general-conference
