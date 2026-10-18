@@ -2,7 +2,7 @@
 layout: post
 title: "The Gospel of Jesus Christ Is for All"
 subtitle: "By President Dallin H. Oaks, October 2026 General Conference."
-date: 2026-10-18 00:00:00 -0600
+date: 2026-10-16 00:00:00 -0600
 tags:
   - Jesus Christ
   - faith
