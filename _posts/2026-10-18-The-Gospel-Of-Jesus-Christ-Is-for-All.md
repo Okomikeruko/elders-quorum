@@ -17,11 +17,15 @@ speaker: "President Dallin H. Oaks"
 ## Opening Discussion
 {:.section-heading}
 
+**If the gospel of Jesus Christ is for everyone, why do some people struggle to feel that it includes them?**
+
 ### Scripture
 - [2 Nephi 26:33](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26?lang=eng&id=p33#p33)
 
-### Question
+### Discussion Questions
 - If God invites everyone to come unto Him, what sometimes prevents people from accepting that invitation?
+- Why might someone struggle to believe the gospel is meant for them?
+- How does recognizing our own spiritual struggles change the way we see others?
 
 ---
 
@@ -30,16 +34,16 @@ speaker: "President Dallin H. Oaks"
 
 **How do we develop faith when we don't have all the answers?**
 
-### Scripture
+President Oaks acknowledges that spiritual growth is a process. Questions and uncertainty may take time to resolve, but faith invites us to continue seeking truth, exercising patience, and trusting in Jesus Christ.
+
+### Scriptures
 - [Ether 12:6](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=eng&id=p6#p6)
+- [Doctrine and Covenants 88:118](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=eng&id=p118#p118)
 
-### Primary Discussion Question
+### Discussion Questions
 - What is the difference between having faith and having all the answers?
-
-### Follow-up Questions
 - Can doubt and faith exist in the same person?
 - Why might God allow us to struggle with unanswered questions?
-- How does recognizing our own spiritual struggles influence how we treat others?
 
 ---
 
@@ -48,27 +52,31 @@ speaker: "President Dallin H. Oaks"
 
 **How does the Savior demonstrate that every individual matters?**
 
-### Scripture
+The Savior's ministry demonstrates that His love extends to all God's children. He recognizes individuals, understands their circumstances, and invites each person to come unto Him.
+
+### Scriptures
 - [3 Nephi 17:5–9](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=eng&id=p5-p9#p5)
+- [2 Nephi 26:33](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26?lang=eng&id=p33#p33)
 
-### Primary Discussion Question
-- What does the Savior's treatment of individuals teach us about what it means for the gospel to be for everyone?
-
-### Follow-up Questions
+### Discussion Questions
 - What is the difference between treating everyone equally and loving everyone individually?
 - How might we unintentionally create barriers for people who want to come unto Christ?
 - What can we learn from the Savior about helping people whose circumstances differ from ours?
-
-### Deeper Reflection
-- What is the difference between believing that everyone belongs in Christ's gospel and helping everyone feel that they belong?
 
 ---
 
 ## Closing Reflection
 {:.section-heading}
 
-### Final Discussion
-- If we genuinely believe the gospel of Jesus Christ is for everyone, what should change about the way we live it?
+**How should understanding the universal invitation of Jesus Christ change the way we live?**
+
+### Scripture
+- [Mosiah 18:8–10](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=eng&id=p8-p10#p8)
+
+### Discussion Questions
+- What is the difference between believing everyone belongs in Christ's gospel and helping everyone feel they belong?
+- How does understanding the universal reach of Christ's Atonement change how we see others?
+- If we genuinely believe the gospel is for everyone, what should change about the way we live it?
 
 ---
 
@@ -77,16 +85,20 @@ speaker: "President Dallin H. Oaks"
 
 > "He inviteth them all to come unto him and partake of his goodness." — 2 Nephi 26:33
 
+The Savior's invitation extends to everyone, regardless of their circumstances, background, or place along the covenant path.
+
 Prayerfully consider:
 
 - Who might need to feel more fully included in the Savior's invitation?
 - What can I do this week to help someone feel the love of Jesus Christ?
 
----
+Choose **one action** this week that will help someone recognize that the gospel of Jesus Christ is for them.
+
+Set a goal on the Gospel Living app.
 
 | | |
 |--|--|
-| [![Download on iOS](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83){:height="40"}](https://apps.apple.com/us/app/gospel-living/id1245330433) | [![Download on Android](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png){:height="60"}](https://play.google.com/store/apps/details?id=org.lds.liv&hl=en_US) |   
+| [![Download on iOS](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83){:height="40"}](https://apps.apple.com/us/app/gospel-living/id1245330433) | [![Download on Android](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png){:height="60"}](https://play.google.com/store/apps/details?id=org.lds.liv&hl=en_US) |
 
 ---
 
