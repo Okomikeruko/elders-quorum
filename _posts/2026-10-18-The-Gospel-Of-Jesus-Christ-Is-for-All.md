@@ -84,14 +84,9 @@ Prayerfully consider:
 
 ---
 
-## Discussion Timing
-
-| Section | Time |
-|---------|------|
-| Opening Discussion | 3 minutes |
-| Faith and Spiritual Growth | 10 minutes |
-| The Gospel Is for Everyone | 9 minutes |
-| Closing Reflection | 3 minutes |
-| **Total** | **25 minutes** |
+| | |
+|--|--|
+| [![Download on iOS](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83){:height="40"}](https://apps.apple.com/us/app/gospel-living/id1245330433) | [![Download on Android](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png){:height="60"}](https://play.google.com/store/apps/details?id=org.lds.liv&hl=en_US) |   
 
 ---
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNfeauyt-K-n3bJPVCvns-RwbcEnrzk_m8Avd6IbdouWxporxZ9G47TCvVNORHzTKgoXL87KvQL0LN/pub?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
